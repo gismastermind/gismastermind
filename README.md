@@ -11,7 +11,7 @@ I'm a Aspinring full stack GIS Developer & A Seasoned GIS Specialist...
 ## 🔗 Links
 [![GitHub Badge](https://img.shields.io/github/followers/gismastermind?style=social)](https://github.com/gismastermind?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/gismastermind?style=social)](https://twitter.com/dm_shekhars)
-[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/c/QiushengWu)
+[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)]([https://www.youtube.com/channel/UCsUwhh1Ok7iOfyXYitJL6yg](https://www.youtube.com/channel/UCsUwhh1Ok7iOfyXYitJL6yg)))
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/chandrashekharsinghofficial/)
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/gismastermind)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gismastermind.gismastermind)
