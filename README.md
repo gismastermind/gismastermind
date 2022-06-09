@@ -39,4 +39,4 @@ ArcGIS, Ericsson Network Engineer, Google Earth, Leaflet, Mapbox, Google Maps AP
 **Server:** Node
 
 
-![Github stats] (https://github-readme-stats.vercel.app/api?username=gismastermind&theme=highcontrast&show_icons=true&count_private=true)
+(https://github-readme-stats.vercel.app/api?username=gismastermind&theme=highcontrast&show_icons=true&count_private=true)
