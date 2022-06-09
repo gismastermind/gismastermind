@@ -9,7 +9,12 @@ I'm a Aspinring full stack GIS Developer & A Seasoned GIS Specialist...
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chandrashekharsingh.in/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandrashekharsinghofficial/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dm_shekhars)
+[![GitHub Badge](https://img.shields.io/github/followers/gismastermind?style=social)](https://github.com/gismastermind?tab=followers)
+[![Twitter Badge](https://img.shields.io/twitter/follow/gismastermind?style=social)](https://twitter.com/dm_shekhars)
+[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/c/QiushengWu)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/chandrashekharsinghofficial/)
+[![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/gismastermind)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gismastermind.gismastermind)
 
 
 ## Other Common Github Profile Sections
