@@ -38,5 +38,5 @@ ArcGIS, Ericsson Network Engineer, Google Earth, Leaflet, Mapbox, Google Maps AP
 
 **Server:** Node
 
-
-(https://github-readme-stats.vercel.app/api?username=gismastermind&theme=highcontrast&show_icons=true&count_private=true)
+[![Chandra Shekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=gismastermind)](https://github.com/gismastermind/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gismastermind)](https://github.com/gismastermind/github-readme-stats)
